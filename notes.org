@@ -1,0 +1,4 @@
+Approximately 70% of the source code of a software system consists of
+identifiers \cite{deissenboeck2006}.
+
+
